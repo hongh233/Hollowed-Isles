@@ -3,6 +3,8 @@
 ## Important: How to Control the Character
 - **WASD** - Move the character
 - **Space** - Jump
+- **E** - Pick up Items
+- **Tab** - Open/Close Inventory
 
 ## Game Overview
 Step into the enchanting world of **Hollowed Isles**, a low-poly, fantasy-themed adventure filled with mysteries and challenges. In this immersive game, players will explore lush forests, solve puzzles, avoid dangerous foes, and engage in platforming and combat. With sword-wielding action, enemy encounters, and a vast environment to explore, **Hollowed Isles** is an epic journey through a realm of wonder and peril.
